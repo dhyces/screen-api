@@ -1,6 +1,6 @@
-package dhyces.modhelper.services;
+package dev.dhyces.screenapi.modhelper.services;
 
-import dhyces.modhelper.services.helpers.PlatformHelper;
+import dev.dhyces.screenapi.modhelper.services.helpers.PlatformHelper;
 
 import java.util.ServiceLoader;
 

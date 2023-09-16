@@ -1,6 +1,6 @@
-package dhyces.modhelper.helpers;
+package dev.dhyces.screenapi.modhelper.helpers;
 
-import dhyces.modhelper.services.helpers.PlatformHelper;
+import dev.dhyces.screenapi.modhelper.services.helpers.PlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 

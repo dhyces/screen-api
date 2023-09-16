@@ -1,6 +1,6 @@
-package dhyces.modhelper.helpers;
+package dev.dhyces.screenapi.modhelper.helpers;
 
-import dhyces.modhelper.services.helpers.PlatformHelper;
+import dev.dhyces.screenapi.modhelper.services.helpers.PlatformHelper;
 import net.fabricmc.api.EnvType;
 import org.quiltmc.loader.api.QuiltLoader;
 import org.quiltmc.loader.impl.launch.common.QuiltLauncherBase;
